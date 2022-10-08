@@ -1,0 +1,8 @@
+{
+    "Data Source": "derived:com.google.weight:com.google.android.gms:merge_weight",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":73}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1610218574367000000,"dataTypeName":"com.google.weight","startTimeNanos":1610218574367000000,"modifiedTimeMillis":1610218595064,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":68}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1644422354380000000,"dataTypeName":"com.google.weight","startTimeNanos":1644422354380000000,"modifiedTimeMillis":1644422401995,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":69}}],"originDataSourceId":"raw:com.google.weight:com.google.android.apps.fitness:user_input","endTimeNanos":1656948976649000000,"dataTypeName":"com.google.weight","startTimeNanos":1656948976649000000,"modifiedTimeMillis":1656949001431,"rawTimestampNanos":0}
+    ]
+}

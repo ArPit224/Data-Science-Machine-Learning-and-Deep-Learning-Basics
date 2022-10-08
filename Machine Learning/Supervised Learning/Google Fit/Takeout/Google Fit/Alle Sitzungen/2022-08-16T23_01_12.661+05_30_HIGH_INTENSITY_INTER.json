@@ -1,0 +1,24 @@
+{
+  "fitnessActivity": "interval_training.high_intensity",
+  "startTime": "2022-08-16T17:31:12.661Z",
+  "endTime": "2022-08-16T17:59:12.661Z",
+  "duration": "1680s",
+  "segment": [{
+    "fitnessActivity": "interval_training.high_intensity",
+    "startTime": "2022-08-16T17:31:12.661Z",
+    "endTime": "2022-08-16T17:59:12.661Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.heart_minutes.summary",
+    "floatValue": 54.0
+  }, {
+    "metricName": "com.google.calories.expended",
+    "floatValue": 130.0
+  }, {
+    "metricName": "com.google.step_count.delta",
+    "intValue": 6
+  }, {
+    "metricName": "com.google.active_minutes",
+    "intValue": 27
+  }]
+}

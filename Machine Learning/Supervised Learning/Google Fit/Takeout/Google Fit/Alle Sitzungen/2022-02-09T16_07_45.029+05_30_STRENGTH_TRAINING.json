@@ -1,0 +1,21 @@
+{
+  "fitnessActivity": "strength_training",
+  "startTime": "2022-02-09T10:37:45.029Z",
+  "endTime": "2022-02-09T10:55:15.029Z",
+  "duration": "1050s",
+  "segment": [{
+    "fitnessActivity": "strength_training",
+    "startTime": "2022-02-09T10:37:45.029Z",
+    "endTime": "2022-02-09T10:55:15.029Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.heart_minutes.summary",
+    "floatValue": 17.0
+  }, {
+    "metricName": "com.google.calories.expended",
+    "floatValue": 81.0
+  }, {
+    "metricName": "com.google.active_minutes",
+    "intValue": 17
+  }]
+}

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Walking">
+            <Id>2022-05-20T03:07:49.537Z</Id>
+            <Lap StartTime="2022-05-20T03:07:49.537Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-05-20T03:07:49.537Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>49.65167236328125</DistanceMeters>
+                        <Time>2022-05-20T03:08:32.655Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>49.65167236328125</DistanceMeters>
+                <TotalTimeSeconds>43.118</TotalTimeSeconds>
+                <Calories>0.6039382219314575</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Walking">
+            <Id>2022-05-20T03:07:49.537Z</Id>
+            <Lap StartTime="2022-05-20T03:07:49.537Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-05-20T03:07:49.537Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>49.65167236328125</DistanceMeters>
+                        <Time>2022-05-20T03:07:57.951Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>49.65167236328125</DistanceMeters>
+                        <Time>2022-05-20T03:08:32.655Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>118.50270080566406</DistanceMeters>
+                        <Time>2022-05-20T03:09:30.640Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>118.50270080566406</DistanceMeters>
+                <TotalTimeSeconds>101.10350374</TotalTimeSeconds>
+                <Calories>5.419508934020996</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Walking">
+            <Id>2022-05-20T03:08:32.655Z</Id>
+            <Lap StartTime="2022-05-20T03:08:32.655Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-05-20T03:08:32.655Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>68.85102844238281</DistanceMeters>
+                        <Time>2022-05-20T03:09:13.455Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>68.85102844238281</DistanceMeters>
+                        <Time>2022-05-20T03:09:30.640Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>160.7907943725586</DistanceMeters>
+                        <Time>2022-05-20T03:10:47.116Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>187.87849235534668</DistanceMeters>
+                        <Time>2022-05-20T03:11:07.365Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>258.1398525238037</DistanceMeters>
+                        <Time>2022-05-20T03:12:08.141Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>325.6836757659912</DistanceMeters>
+                        <Time>2022-05-20T03:13:04.947Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>350.2078800201416</DistanceMeters>
+                        <Time>2022-05-20T03:13:28.062Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>360.4559383392334</DistanceMeters>
+                        <Time>2022-05-20T03:13:41.960Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>376.1384620666504</DistanceMeters>
+                        <Time>2022-05-20T03:14:00.506Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>391.2091360092163</DistanceMeters>
+                        <Time>2022-05-20T03:14:24.106Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>391.2091360092163</DistanceMeters>
+                <TotalTimeSeconds>351.451</TotalTimeSeconds>
+                <Calories>22.297836303710938</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>

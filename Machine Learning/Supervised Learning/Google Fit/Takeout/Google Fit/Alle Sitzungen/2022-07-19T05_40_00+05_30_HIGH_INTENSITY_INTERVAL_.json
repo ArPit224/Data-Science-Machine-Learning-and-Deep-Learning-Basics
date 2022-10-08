@@ -1,0 +1,21 @@
+{
+  "fitnessActivity": "interval_training.high_intensity",
+  "startTime": "2022-07-19T00:10:00Z",
+  "endTime": "2022-07-19T00:37:00Z",
+  "duration": "1620s",
+  "segment": [{
+    "fitnessActivity": "interval_training.high_intensity",
+    "startTime": "2022-07-19T00:10:00Z",
+    "endTime": "2022-07-19T00:37:00Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.heart_minutes.summary",
+    "floatValue": 50.0
+  }, {
+    "metricName": "com.google.calories.expended",
+    "floatValue": 217.3499755859375
+  }, {
+    "metricName": "com.google.active_minutes",
+    "intValue": 27
+  }]
+}

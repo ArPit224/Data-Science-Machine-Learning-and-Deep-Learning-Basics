@@ -1,0 +1,10 @@
+{
+  "fitnessActivity": "sleep",
+  "startTime": "2022-07-16T06:46:00Z",
+  "endTime": "2022-07-16T08:57:00Z",
+  "duration": "7860s",
+  "aggregate": [{
+    "metricName": "com.google.calories.expended",
+    "floatValue": 135.8442589503435
+  }]
+}

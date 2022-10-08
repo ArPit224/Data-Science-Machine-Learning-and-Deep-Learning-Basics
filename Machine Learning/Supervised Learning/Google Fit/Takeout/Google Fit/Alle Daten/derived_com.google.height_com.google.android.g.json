@@ -1,0 +1,7 @@
+{
+    "Data Source": "derived:com.google.height:com.google.android.gms:merge_height",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":1.7000000476837158}}],"originDataSourceId":"raw:com.google.height:com.google.android.apps.fitness:user_input","endTimeNanos":1610218576149000000,"dataTypeName":"com.google.height","startTimeNanos":1610218576149000000,"modifiedTimeMillis":1610218594887,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":1.649999976158142}}],"originDataSourceId":"raw:com.google.height:com.google.android.apps.fitness:user_input","endTimeNanos":1644422375207000000,"dataTypeName":"com.google.height","startTimeNanos":1644422375207000000,"modifiedTimeMillis":1644422402014,"rawTimestampNanos":0}
+    ]
+}

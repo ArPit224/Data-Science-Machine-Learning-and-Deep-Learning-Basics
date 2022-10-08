@@ -1,0 +1,9 @@
+{
+    "Data Source": "raw:com.google.distance.delta:com.google.android.apps.fitness:user_input",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":640}}],"originDataSourceId":"","endTimeNanos":1646403080361000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1646401992702000000,"modifiedTimeMillis":1646442673998,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":910}}],"originDataSourceId":"","endTimeNanos":1646406609256000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1646404643480000000,"modifiedTimeMillis":1646418567055,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":2440}}],"originDataSourceId":"","endTimeNanos":1646410478455000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1646407625115000000,"modifiedTimeMillis":1646418567055,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":400}}],"originDataSourceId":"","endTimeNanos":1651982943502000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1651982383187000000,"modifiedTimeMillis":1652032270427,"rawTimestampNanos":0}
+    ]
+}

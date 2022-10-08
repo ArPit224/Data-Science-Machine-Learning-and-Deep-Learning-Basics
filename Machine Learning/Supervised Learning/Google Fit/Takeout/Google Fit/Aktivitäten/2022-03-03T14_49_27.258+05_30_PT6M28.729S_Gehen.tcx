@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Walking">
+            <Id>2022-03-03T08:08:16.467Z</Id>
+            <Lap StartTime="2022-03-03T08:08:16.467Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-03-03T08:08:16.467Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-03-03T09:19:27.258Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>58.20357131958008</DistanceMeters>
+                        <Time>2022-03-03T09:20:27.964Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>58.20357131958008</DistanceMeters>
+                <TotalTimeSeconds>4331.497007322</TotalTimeSeconds>
+                <Calories>76.46234488487244</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Walking">
+            <Id>2022-03-03T09:19:27.258Z</Id>
+            <Lap StartTime="2022-03-03T09:19:27.258Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2022-03-03T09:19:27.258Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>58.20357131958008</DistanceMeters>
+                        <Time>2022-03-03T09:20:11.069Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>58.20357131958008</DistanceMeters>
+                        <Time>2022-03-03T09:20:27.964Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>133.05236434936523</DistanceMeters>
+                        <Time>2022-03-03T09:21:29.293Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>210.8849983215332</DistanceMeters>
+                        <Time>2022-03-03T09:22:30.643Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>289.0992851257324</DistanceMeters>
+                        <Time>2022-03-03T09:23:31.364Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>367.40532302856445</DistanceMeters>
+                        <Time>2022-03-03T09:24:31.937Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>433.20268630981445</DistanceMeters>
+                        <Time>2022-03-03T09:25:24.860Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>445.86205196380615</DistanceMeters>
+                        <Time>2022-03-03T09:25:55.987Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>445.86205196380615</DistanceMeters>
+                <TotalTimeSeconds>388.728586638</TotalTimeSeconds>
+                <Calories>24.7574462890625</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>

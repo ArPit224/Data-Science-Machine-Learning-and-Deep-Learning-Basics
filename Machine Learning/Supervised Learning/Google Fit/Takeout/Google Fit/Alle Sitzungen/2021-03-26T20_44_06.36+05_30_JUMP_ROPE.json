@@ -1,0 +1,15 @@
+{
+  "fitnessActivity": "jump_rope",
+  "startTime": "2021-03-26T15:14:06.360Z",
+  "endTime": "2021-03-26T15:14:49.365Z",
+  "duration": "41.549s",
+  "segment": [{
+    "fitnessActivity": "jump_rope",
+    "startTime": "2021-03-26T15:14:06.360Z",
+    "endTime": "2021-03-26T15:14:47.909Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.calories.expended",
+    "floatValue": 5.754420757293701
+  }]
+}
